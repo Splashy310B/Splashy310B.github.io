@@ -1,0 +1,39 @@
+#carouselExampleSlidesOnly {
+  padding: 100px;
+  width: 700px;
+  height: 700px;
+}
+
+.text_titel_contact {
+  padding-top: 10px;
+  padding-left: 25px;
+}
+
+.text_titel_overons {
+  padding-top: 10px;
+  padding-left: 25px;
+}
+
+.text_titel_openingstijden {
+  padding-top: 10px;
+  padding-left: 25px;
+}
+
+.text_adres {
+  padding-top: 20px;
+  padding-left: 50px;
+}
+
+.lijst_adres {
+  list-style-type: none;
+  padding: 0px;
+}
+
+.text_email {
+  padding-top: 10px;
+  padding-left: 50px;
+}
+
+.text_openingstijden {
+  
+}
