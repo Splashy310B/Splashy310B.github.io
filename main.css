@@ -28,3 +28,19 @@
   padding-top: 10px;
   padding-left: 50px;
 }
+
+#maandag {
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+.text_openingstijden {
+  padding-top: 10px;
+  padding-left: 50px;
+}
+
+footer {
+  display: inline-block;
+  height: auto;
+  width: auto;
+}
